@@ -10,9 +10,8 @@ link = input("Insert video link: ")
 yt = YouTube(link)
 
 #download
+print("Video ", yt.title, " is being downloaded...")
 yt_vid_download = yt.streams.get_highest_resolution()
 yt_vid_download.download(yt_videos_download_path)
 
-print("Video ", yt.title, " is being downloaded...")
-print("Video has been downloaded to the " + yt_videos_download_path + " folder. Enjoy! :)")
 
