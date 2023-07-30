@@ -8,7 +8,7 @@
  
 ★ Locate the executable file (```ytVideoDownloader.exe```)
 
-★ Click on the file to start the download process.
+★ Click on the file to start the download process
 
     
 ## Using the program
@@ -16,7 +16,7 @@
 
 ★ Paste the yt video link in the terminal 
 
-★ The video will be downloaded in the ```C:\Users\username\Videos\yt videos``` folder.
+★ The video will be downloaded in the ```C:\Users\username\Videos\yt videos``` folder
 
 ★ And that's it! It's that simple :)
 
